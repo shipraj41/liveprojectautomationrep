@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12634" started-at="2019-04-11T23:15:41Z" finished-at="2019-04-11T23:15:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12634" started-at="2019-04-11T23:15:41Z" finished-at="2019-04-11T23:15:54Z">
+      <class name="package1.TC1">
+        <test-method status="PASS" signature="ckeckloginfunc()[pri:0, instance:package1.TC1@8f4ea7c]" name="ckeckloginfunc" duration-ms="12606" started-at="2019-04-11T23:15:41Z" finished-at="2019-04-11T23:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ckeckloginfunc -->
+      </class> <!-- package1.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
