@@ -23,8 +23,8 @@ public class base {
 		
 		if(browsername.equalsIgnoreCase("firefox"))
 		{
-			System.setProperty("webdriver.gecko.driver", "C:\\work\\geckodriver.exe");
-			driver = new FirefoxDriver();
+			//System.setProperty("webdriver.gecko.driver", "C:\\work\\geckodriver.exe");
+			//driver = new FirefoxDriver();
 		}
 		
 		else
